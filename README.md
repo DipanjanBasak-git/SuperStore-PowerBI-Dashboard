@@ -3,6 +3,9 @@
 Description: 
 This project visualizes the sales performance of a Super Store using a dynamic and interactive Power BI dashboard. By analyzing the dataset, I created an engaging visualization to highlight key business metrics, regional trends, customer segments, and other actionable insights. The dashboard serves as a comprehensive tool for decision-making and performance evaluation.
 
+## Dataset Used :- 
+- <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Super-store Dataset</a>
+
 Key Features of the Dashboard:-
 
 High-Level Metrics
