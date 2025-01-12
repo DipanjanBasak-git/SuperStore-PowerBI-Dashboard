@@ -10,14 +10,13 @@ This project visualizes the sales performance of a Super Store using a dynamic a
 
 ---
 
-## Dashboard LINK :-
-- <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Dashboard.png"> Super-store Dashboard</a>
-- <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Forecast(15days)-Dashboard.png"> Forecast Dashboard </a>
----
+## Image With Links :-
+Sales-Dashboard - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Dashboard.png"> Super-store Dashboard</a>
+![Sales-Dashboard](https://github.com/user-attachments/assets/6e3a9d97-bf8b-458c-ac88-6c51df88e787)
 
-## Image:
-Sales-Dashboard: ![Sales-Dashboard](https://github.com/user-attachments/assets/6e3a9d97-bf8b-458c-ac88-6c51df88e787)
-Forecast-Dashboard: ![Sales-Forecast(15days)-Dashboard](https://github.com/user-attachments/assets/79eb1035-317c-4641-8f2f-d17415b4ba6e)
+---
+Forecast-Dashboard - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Forecast(15days)-Dashboard.png"> Forecast Dashboard </a>
+![Sales-Forecast(15days)-Dashboard](https://github.com/user-attachments/assets/79eb1035-317c-4641-8f2f-d17415b4ba6e)
 
 
 ---
