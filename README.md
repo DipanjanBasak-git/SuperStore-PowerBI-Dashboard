@@ -3,11 +3,16 @@
 Description: 
 This project visualizes the sales performance of a Super Store using a dynamic and interactive Power BI dashboard. By analyzing the dataset, I created an engaging visualization to highlight key business metrics, regional trends, customer segments, and other actionable insights. The dashboard serves as a comprehensive tool for decision-making and performance evaluation.
 
+---
+
 ## Dataset Used :- 
 - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Super-store Dataset</a>
 ## Dashboard LINK :-
 - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Dashboard.png"> Super-store Dashboard</a>
 - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Forecast(15days)-Dashboard.png"> Forecast Dashboard </a>
+
+---
+
 Key Features of the Dashboard:-
 
 High-Level Metrics
@@ -20,7 +25,7 @@ Total Quantity Sold: 22K units
 
 Average Delivery Time: 4 days
 
-
+---
 Segment Analysis:-
 
 Breakdown of sales by customer segments
@@ -31,7 +36,7 @@ Corporate: 33%.
 
 Home Office: 19%.
 
-
+---
 
 Regional Insights:-
 
@@ -43,7 +48,7 @@ East: $0.45M.
 
 South: $0.25M (lowest).
 
-
+---
 
 Shipping Modes:-
 
@@ -53,7 +58,7 @@ Standard Class: 91% of all shipments (dominates).
 
 Other modes include First Class, Second Class, etc.
 
-
+---
 
 Yearly Trends:-
 
@@ -63,7 +68,7 @@ Sales Peak: December (seasonal trend).
 
 2020 outperformed 2019 in profitability despite similar sales trends.
 
-
+---
 
 Payment Modes:-
 
@@ -73,6 +78,7 @@ Online Payments: 35%.
 
 Cards: 22%.
 
+---
 
 Product Insights:-
 
@@ -84,6 +90,7 @@ Technology: $0.47M.
 
 Furniture: $0.45M.
 
+---
 
 Sub-categories:-
 
