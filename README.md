@@ -7,10 +7,9 @@ This project visualizes the sales performance of a Super Store using a dynamic a
 
 ## Dataset Used :- 
 - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Super-store Dataset</a>
-
 ---
 
-## Image With Links :-
+## Image With Links (For Refference) :-
 Sales-Dashboard - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Dashboard.png"> Super-store Dashboard</a>
 ![Sales-Dashboard](https://github.com/user-attachments/assets/6e3a9d97-bf8b-458c-ac88-6c51df88e787)
 
