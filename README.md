@@ -5,7 +5,9 @@ This project visualizes the sales performance of a Super Store using a dynamic a
 
 ## Dataset Used :- 
 - <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx"> Super-store Dataset</a>
-
+## Dashboard LINK :-
+- <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Dashboard.png"> Super-store Dashboard</a>
+- <a href="https://github.com/DipanjanBasak-git/SuperStore-PowerBI-Dashboard/blob/main/Sales-Forecast(15days)-Dashboard.png"> Forecast Dashboard </a>
 Key Features of the Dashboard:-
 
 High-Level Metrics
@@ -116,7 +118,6 @@ In addition to the existing analysis, a Forecasting Dashboard has been added to 
 
 
 
-
 ---
 
 Repository Contents:-
@@ -126,13 +127,6 @@ Power BI Dashboard File (.png): Interactive dashboard file.
 Dataset (.xlsx): Excel sheet containing the dataset.
 
 ReadMe File: Detailed explanation of the project.
-
-
-Links:-
-
-Dataset File: Link to Dataset
-
-Power BI Dashboard File: Link to Dashboard
 
 
 
